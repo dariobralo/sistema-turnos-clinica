@@ -3,7 +3,7 @@
 Aplicación de práctica de estructura monolitica respetando  
 un modelo de capas vista-lógica-persistencia usando: 
 
-JSP, HTML, CSS para el Frontend, usando una plantilla de Bootstrap.  
-Java + JPA para la lógica y la persistencia de datos.
+JSP y Bootstrap para las vistas.  
+Java EE con el uso de servlet para la lógica y JPA - EclipseLink para la persistencia de datos.
 
-# Proyecto en Desarrollo
+# Ejercicio parte del curso de java de la TodoCode Academy
